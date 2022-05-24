@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name = "Listener Example">
+<listeners >
+<listener class-name="testNG.ListenersExample"></listener>
+</listeners>
+<test name= "Test Case">
+<classes>
+<class name = "testNG.SetPriorityExample"></class>
+</classes>
+</test>
+</suite>

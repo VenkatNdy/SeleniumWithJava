@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Test Suite">
+<test name = "Test Case">
+<classes>
+<class name = "testNG.SampleTestCase"></class>
+<class name = "testNG.SetPriorityExample"></class>
+<class name = "testNG.SkipTestCaseExample"></class>
+<class name = "testNG.DependanciesManagementExample"></class>
+<class name = "testNG.TestSuiteExample"></class>
+<class name = "testNG.BeforeAndAfterSuiteAnnotationsExample"></class>
+</classes>
+</test>
+</suite>
